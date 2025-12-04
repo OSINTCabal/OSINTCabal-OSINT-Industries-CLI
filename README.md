@@ -12,7 +12,7 @@ Built with:
 
 ## 🚀 Features
 
-- 🔍 Username, Email, Phone, Person & Crypto Wallet searches
+- 🔍 Username, Email, Phone, Person & Crypto Wallet searches  (Name search still in the works) 
 - 📊 Automatic platform summary (found vs not found)
 - 🎨 Colorized output with `colorama`
 - 🧠 Intelligent nested JSON formatter
@@ -27,3 +27,12 @@ Built with:
 ```bash
 git clone https://github.com/OSINTCabal/OSINTCabal-OSINT-Industries-CLI.git
 cd OSINTCabal-OSINT-Industries-CLI
+pip install -r requirements.txt 
+Python3 OSINTCabalOIcli.py <-- Starts the tool!
+
+### 1. Input your API key where it says "YOUR KEY HERE" 
+
+EX: 
+def main():
+    # Your API key
+    API_KEY = "YOUR KEY HERE"
