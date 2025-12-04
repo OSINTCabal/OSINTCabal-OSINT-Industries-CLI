@@ -30,7 +30,7 @@ cd OSINTCabal-OSINT-Industries-CLI
 pip install -r requirements.txt 
 Python3 OSINTCabalOIcli.py <-- Starts the tool!
 
-### 1. Input your API key where it says "YOUR KEY HERE" 
+### 2. Input your API key where it says "YOUR KEY HERE" 
 
 EX: 
 def main():
